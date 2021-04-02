@@ -25,7 +25,7 @@
 </p>
 
 ## 📌 Sobre a aplicação
-O **YAMI** é uma aplicação de produtividade que alia a técnica Pomodoro com exercícios saudáveis de alongamento. O projeto foi desenvolvido durante a Next Level Week 4 promovida pela [https://yami-psi.vercel.app](https://rocketseat.com.br/), durante a trilha de React.
+O **YAMI** é uma aplicação de produtividade que alia a técnica Pomodoro com exercícios saudáveis de alongamento. O projeto foi desenvolvido durante a Next Level Week 4 promovida pela [Rocket Seat](https://rocketseat.com.br/), durante a trilha de React.
 ### 🍅 Pomodoro
 Pomodoro é um método de gerenciamento de tempo que consiste em fazer períodos de trabalhos ininterruptos de 25min, e, após isso, um intervalo de 5min. Ao final de 4 ciclos de 25min, é feita uma pausa de 30min.
 
